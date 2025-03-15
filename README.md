@@ -8,7 +8,7 @@
   - [repo](https://github.com/realurl)
 - <b>C#/.Net Projects</b>
   - [Spreadsheet Application repo](https://github.com/uofu-cs3500-fall23/ps6-louras_pritchett/tree/main/Spreadsheet#readme)
-  - [Snake.io game repo](https://github.com/realurl)
+  - [Snake.io game repo](https://github.com/uofu-cs3500-fall23/game-louras_pritchett_game/blob/main/README.md)
 - <b>PonyExpress Chat Application (React/FastAPI/SQLAlchemy)</b>
   - [repo](https://github.com/realurl)
 - <b>Android Drawing App (Android-JPC/RoomDB/Firebase)</b>
