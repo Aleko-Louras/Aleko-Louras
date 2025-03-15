@@ -7,7 +7,7 @@
 - <b>Pickleball Video Assistant Referee (ReactNative/Firebase/OpenCV)</b>
   - [repo](https://github.com/realurl)
 - <b>C#/.Net Projects</b>
-  - [Spreadsheet Application repo](https://github.com/realurl)
+  - [Spreadsheet Application repo](https://github.com/uofu-cs3500-fall23/ps6-louras_pritchett/tree/main/Spreadsheet#readme)
   - [Snake.io game repo](https://github.com/realurl)
 - <b>PonyExpress Chat Application (React/FastAPI/SQLAlchemy)</b>
   - [repo](https://github.com/realurl)
