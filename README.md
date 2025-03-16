@@ -14,6 +14,7 @@
 - <b>Android Drawing App (Android-JPC/RoomDB/Firebase)</b>
   - [repo](https://github.com/Aleko-Louras/QuickDraw.git)
 <h2>Certifications</h2>
+
 - <b>CompTIA</b>
   - Sec+
   - Net+
