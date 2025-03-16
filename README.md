@@ -3,18 +3,17 @@
 <h2>Some of my software projects</h2>
 
 - <b>Data Structures and Algorithms Teaching App (C++/Qt/Box2D)</b>
-  - [repo](https://github.com/realurl)
+  - [repo](https://github.com/Aleko-Louras/DSFO.git)
 - <b>Pickleball Video Assistant Referee (ReactNative/Firebase/OpenCV)</b>
-  - [repo](https://github.com/realurl)
+  - In Progress
 - <b>C#/.Net Projects</b>
-  - [Spreadsheet Application repo](https://github.com/uofu-cs3500-fall23/ps6-louras_pritchett/tree/main/Spreadsheet#readme)
-  - [Snake.io game repo](https://github.com/Aleko-Louras/SnakeGame/tree/main)
+  - [Spreadsheet Application repo](https://github.com/Aleko-Louras/Spreadsheet.git)
+  - [Snake.io game repo](https://github.com/Aleko-Louras/SnakeGame.git)
 - <b>PonyExpress Chat Application (React/FastAPI/SQLAlchemy)</b>
-  - [repo](https://github.com/realurl)
+  - In Progress
 - <b>Android Drawing App (Android-JPC/RoomDB/Firebase)</b>
-  - [repo](https://github.com/realurl])
+  - [repo](https://github.com/Aleko-Louras/QuickDraw.git)
 <h2>Certifications</h2>
-
 - <b>CompTIA</b>
   - Sec+
   - Net+
